@@ -16,7 +16,7 @@ This repository contains a Jupyter Notebook for performing exploratory data anal
 
 ## 🔧 Requirements
 
-     To run the notebook, you'll need the following Python libraries:
+To run the notebook, you'll need the following Python libraries:
 
       ```bash
       pip install pandas matplotlib seaborn
